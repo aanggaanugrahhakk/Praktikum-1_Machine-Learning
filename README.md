@@ -66,7 +66,7 @@ Citations:
 [6] https://stackoverflow.com/questions/42165649/pandas-read-csv-filenotfounderror-file-b-xe2-x80-xaaetc-despite-correct-pat
 
 
-## 🔗 Links
+## 🔗 Link Data Diri
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
 
 
