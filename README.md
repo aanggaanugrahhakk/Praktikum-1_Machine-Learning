@@ -64,6 +64,12 @@ Citations:
 [4] https://realpython.com/python-data-cleaning-numpy-pandas/
 [5] https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/02_read_write.html
 [6] https://stackoverflow.com/questions/42165649/pandas-read-csv-filenotfounderror-file-b-xe2-x80-xaaetc-despite-correct-pat
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
+
+
 ## Authors
 
 - [@aanggaanugrahhakk](https://github.com/aanggaanugrahhakk)
