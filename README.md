@@ -5,8 +5,7 @@ Mengubah ke format yang mempunyai kegunaan juga sangat tepat, dimana hal ini ter
 
 Ini projek skrip pemrograman pada bahasa python terhadap library pandas, dimana sebuah data mentah akan diubah menjadi sangat efisien dan berguna terhadap teknik yang digunakan.
 
-Penjelasan:
-Skrip tersebut merupakan contoh penggunaan library pandas pada bahasa pemrograman Python untuk membaca file csv dan melakukan data preprocessing. Berikut adalah penjelasan dari setiap baris kode pada skrip tersebut:
+Penjelasan Penyelesaian Data Preprocessing:
 
 ```python
 import pandas as pd
