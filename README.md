@@ -30,19 +30,19 @@ Alur dari Skrip digunakan:
 - Menampilkan jumlah nilai yang hilang (NaN) di setiap kolom DataFrame 'kumpulan data' yang telah diperbarui.
 - Menampilkan statistik ringkasan untuk setiap kolom numerik dalam DataFrame 'dataset', termasuk jumlah, rata-rata, deviasi standar, nilai minimum, dan nilai maksimum.
 
-Citations:
-[1] https://stackoverflow.com/questions/62980409/df-isnull-sum-is-still-showing-values-as-null-even-though-i-dropped-na-value
-[2] https://note.nkmk.me/en/python-pandas-nan-judge-count/
-[3] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
-[4] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isnull.html
-[5] https://pandas.pydata.org/docs/user_guide/missing_data.html
-[6] https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
-[7] https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
-[8] https://www.datacamp.com/tutorial/pandas-read-csv
-[9] https://realpython.com/pandas-python-explore-dataset/
-[10] https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
-[11] https://realpython.com/python-data-cleaning-numpy-pandas/
-[12] https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
+Sitasi:
+- [1] https://stackoverflow.com/questions/62980409/df-isnull-sum-is-still-showing-values-as-null-even-though-i-dropped-na-value
+- [2] https://note.nkmk.me/en/python-pandas-nan-judge-count/
+- [3] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
+- [4] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isnull.html
+- [5] https://pandas.pydata.org/docs/user_guide/missing_data.html
+- [6] https://www.geeksforgeeks.org/python-pandas-dataframe-dropna/
+- [7] https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+- [8] https://www.datacamp.com/tutorial/pandas-read-csv
+- [9] https://realpython.com/pandas-python-explore-dataset/
+- [10] https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
+- [11] https://realpython.com/python-data-cleaning-numpy-pandas/
+- [12] https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
 
 ## 🔗 Link Data Diri
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
